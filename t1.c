@@ -1,2 +1,9 @@
-ADD()
+main()
+{
+
+	ADD()
+	{
+		printf("addition');
+	}
+
 SUB()
